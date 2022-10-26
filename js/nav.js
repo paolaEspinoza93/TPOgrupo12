@@ -6,7 +6,7 @@ const createNav = () => {
     <img src="img/Fashion Logo.png" class="brand-logo" alt="">
     <div class="nav-items">
         <div class="search">
-            <input type="text" class="search-box" placeholder="Buscar productos">
+            <input type="search" class="search-box" placeholder="Buscar productos">
             <button class="search-btn">Buscar</button>
         </div>
         <a href="#"><img src="img/user.png"></a>
